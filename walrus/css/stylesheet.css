@@ -1,0 +1,20 @@
+.walrus-hidden {
+  display: none;
+}
+
+.walrus-revealed {
+  display: block;
+}
+
+.clickable {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable:hover {
+  text-decoration: underline;
+}
+
+.turtle {
+  display: none;
+}
